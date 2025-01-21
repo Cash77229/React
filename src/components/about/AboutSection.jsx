@@ -5,7 +5,7 @@ export default function AboutSection() {
 
     const navigate = useNavigate();
     const contactpage = ()=>{
-      // navigate("/contact")
+      navigate("/contact")
     }
 
     return (
